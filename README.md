@@ -20,5 +20,5 @@ RedTeam Tools based on ATT&amp;CK
 ## Command and Control
 ## Exfiltration
 ## Impact
-- [Slowloris](Tools/Slowloris)
-- [Low Orbit Ion Cannon (LOIC)](Tools/Low-Orbit-Ion-Cannon-(LOIC))
+- [Slowloris](Tools/Slowloris.md)
+- [Low Orbit Ion Cannon (LOIC)](Tools/Low-Orbit-Ion-Cannon-(LOIC).md)
