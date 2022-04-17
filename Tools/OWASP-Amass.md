@@ -14,4 +14,5 @@
        - Digital Certificates 
 
 ## Commands
-   - ```s``
+   - Install
+     - ```apt-get install amass``` 
