@@ -4,15 +4,19 @@ RedTeam Tools based on ATT&amp;CK
 
 # ATT&CK Tools
 ## Reconnaissance
-- [Information Gathering](Attacks/information-gathering.md)
+- [OWASP Amass(Tools/OWASP Amass.md)
 - d
 
 ## Resource Development
 ## Initial Access
 ## Execution
-## Persistence 
+## Persistence
 ## Privilege Escalation
 ## Defense Evasion
 ## Credential Access
-## Discovery 
+## Discovery
 ## Lateral Movement
+## Collection
+## Command and Control
+## Exfiltration
+## Impact
