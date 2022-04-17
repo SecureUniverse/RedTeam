@@ -1,8 +1,10 @@
 # OWASP Amass
 
-## Usage: Domain Enumeration
+## Usage
+   - Domain Enumeration
 
-## Link: https://github.com/OWASP/Amass
+## Link
+   - https://github.com/OWASP/Amass
 
 ## ATT&CK 
    - Reconnaissance
