@@ -54,7 +54,7 @@ RedTeam Tools based on ATT&amp;CK
 - [LaZagne](Tools/.md)
 
 ## Discovery
-- [BloodHound](Tools/.md)
+- [BloodHound](Tools/BloodHound.md)
 - [Seatbelt](Tools/.md)
 - [Kismet](Tools/.md)
 - [ADRecon](Tools/.md)
