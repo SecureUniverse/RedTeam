@@ -45,7 +45,7 @@ RedTeam Tools based on ATT&amp;CK
 - [Veil](Tools/.md)
 
 ## Credential Access
-- [Mimikatz](Tools/.md)
+- [Mimikatz](Tools/Mimikatz.md)
 - [Hashcat](Tools/.md)
 - [Responder](Tools/.md)
 - [Cain and Abel](Tools/.md)
